@@ -1,0 +1,4 @@
+# 保持脚本字节原样，避免 git 自动转换换行符
+*.lua -text
+*.zip binary
+*.md text
